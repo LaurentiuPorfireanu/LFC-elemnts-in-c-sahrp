@@ -1,0 +1,23 @@
+Deterministic Finite Automaton:
+States: DFA_0, DFA_1, DFA_2, DFA_3, DFA_4, DFA_5, DFA_6, DFA_7, DFA_8, DFA_9, DFA_10
+Alphabet: a, b, c
+Initial State: DFA_0
+Final States: DFA_6, DFA_10
+Transition Function:
+δ(DFA_0, a) -> DFA_1
+δ(DFA_1, b) -> DFA_2
+δ(DFA_2, a) -> DFA_3
+δ(DFA_3, a) -> DFA_4
+δ(DFA_3, b) -> DFA_5
+δ(DFA_3, c) -> DFA_6
+δ(DFA_4, a) -> DFA_7
+δ(DFA_5, b) -> DFA_8
+δ(DFA_6, a) -> DFA_9
+δ(DFA_7, a) -> DFA_4
+δ(DFA_7, b) -> DFA_5
+δ(DFA_7, c) -> DFA_6
+δ(DFA_8, a) -> DFA_4
+δ(DFA_8, b) -> DFA_5
+δ(DFA_8, c) -> DFA_6
+δ(DFA_9, b) -> DFA_10
+δ(DFA_10, a) -> DFA_9

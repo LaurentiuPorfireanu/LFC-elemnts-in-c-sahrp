@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|c:\\users\\laurp\\desktop\\anul 2\\lfc\\tema2\\tema2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|solutionrelative:tema2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|c:\\users\\laurp\\desktop\\anul 2\\lfc\\tema2\\tema2\\mygrammerlexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|solutionrelative:tema2\\mygrammerlexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|c:\\users\\laurp\\desktop\\anul 2\\lfc\\tema2\\tema2\\mygrammervisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|solutionrelative:tema2\\mygrammervisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|c:\\users\\laurp\\desktop\\anul 2\\lfc\\tema2\\tema2\\syntaxhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|solutionrelative:tema2\\syntaxhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|c:\\users\\laurp\\desktop\\anul 2\\lfc\\tema2\\tema2\\lexerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|solutionrelative:tema2\\lexerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|c:\\users\\laurp\\desktop\\anul 2\\lfc\\tema2\\tema2\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E2B3E7-D6D4-4B9A-93A0-E70B0E71F378}|Tema2\\Tema2.csproj|solutionrelative:tema2\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MygrammerLexer.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\MygrammerLexer.cs",
+              "RelativeDocumentMoniker": "Tema2\\MygrammerLexer.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\MygrammerLexer.cs",
+              "RelativeToolTip": "Tema2\\MygrammerLexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:22:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MygrammerVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\MygrammerVisitor.cs",
+              "RelativeDocumentMoniker": "Tema2\\MygrammerVisitor.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\MygrammerVisitor.cs",
+              "RelativeToolTip": "Tema2\\MygrammerVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:22:10.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "Tema2\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\ErrorHandler.cs",
+              "RelativeToolTip": "Tema2\\ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:09:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LexerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\LexerHandler.cs",
+              "RelativeDocumentMoniker": "Tema2\\LexerHandler.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\LexerHandler.cs",
+              "RelativeToolTip": "Tema2\\LexerHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:44:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyntaxHandler.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\SyntaxHandler.cs",
+              "RelativeDocumentMoniker": "Tema2\\SyntaxHandler.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\SyntaxHandler.cs",
+              "RelativeToolTip": "Tema2\\SyntaxHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:02:56.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\Program.cs",
+              "RelativeDocumentMoniker": "Tema2\\Program.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Anul 2\\LFC\\Tema2\\Tema2\\Program.cs",
+              "RelativeToolTip": "Tema2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:47:43.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Functions:
+Function: addIntegers
+  Type: iterative
+  Return Type: int
+  Parameters: int first, int second
+  Local Variables: None
+  Control Structures: None
+
+Function: divideIntegers
+  Type: iterative
+  Return Type: float
+  Parameters: int first, int second
+  Local Variables: None
+  Control Structures: if-else
+
+Function: main
+  Type: main
+  Return Type: int
+  Parameters: None
+  Local Variables: None
+  Control Structures: None
+

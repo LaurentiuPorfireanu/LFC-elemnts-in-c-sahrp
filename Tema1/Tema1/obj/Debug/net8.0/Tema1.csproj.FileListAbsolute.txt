@@ -1,0 +1,28 @@
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\bin\Debug\net8.0\Tema1.exe
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\bin\Debug\net8.0\Tema1.deps.json
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\bin\Debug\net8.0\Tema1.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\bin\Debug\net8.0\Tema1.pdb
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.pdb
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema1\Tema1\obj\Debug\net8.0\ref\Tema1.dll
+C:\Users\laurp\Desktop\Tema1\Tema1\bin\Debug\net8.0\Tema1.exe
+C:\Users\laurp\Desktop\Tema1\Tema1\bin\Debug\net8.0\Tema1.deps.json
+C:\Users\laurp\Desktop\Tema1\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+C:\Users\laurp\Desktop\Tema1\Tema1\bin\Debug\net8.0\Tema1.dll
+C:\Users\laurp\Desktop\Tema1\Tema1\bin\Debug\net8.0\Tema1.pdb
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.dll
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.pdb
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+C:\Users\laurp\Desktop\Tema1\Tema1\obj\Debug\net8.0\ref\Tema1.dll

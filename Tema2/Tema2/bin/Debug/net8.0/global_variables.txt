@@ -1,0 +1,7 @@
+Global Variables:
+double globalVariable = 
+int mySecondVariable = 45
+int myThirdVariable = null
+string myString = ""
+int temp = myFirstVariable+5
+float myFloat = divideIntegers

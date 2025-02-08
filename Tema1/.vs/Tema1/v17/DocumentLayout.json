@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laurp\\Desktop\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E138F080-10C9-49EF-8C4C-D92673869868}|Tema1\\Tema1.csproj|c:\\users\\laurp\\desktop\\tema1\\tema1\\regexprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E138F080-10C9-49EF-8C4C-D92673869868}|Tema1\\Tema1.csproj|solutionrelative:tema1\\regexprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E138F080-10C9-49EF-8C4C-D92673869868}|Tema1\\Tema1.csproj|c:\\users\\laurp\\desktop\\tema1\\tema1\\lambdaautomaton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E138F080-10C9-49EF-8C4C-D92673869868}|Tema1\\Tema1.csproj|solutionrelative:tema1\\lambdaautomaton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E138F080-10C9-49EF-8C4C-D92673869868}|Tema1\\Tema1.csproj|c:\\users\\laurp\\desktop\\tema1\\tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E138F080-10C9-49EF-8C4C-D92673869868}|Tema1\\Tema1.csproj|solutionrelative:tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LambdaAutomaton.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Tema1\\Tema1\\LambdaAutomaton.cs",
+              "RelativeDocumentMoniker": "Tema1\\LambdaAutomaton.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Tema1\\Tema1\\LambdaAutomaton.cs",
+              "RelativeToolTip": "Tema1\\LambdaAutomaton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:18:33.931Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Tema1\\Tema1\\Program.cs",
+              "RelativeDocumentMoniker": "Tema1\\Program.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Tema1\\Tema1\\Program.cs",
+              "RelativeToolTip": "Tema1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:44:10.63Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegexProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\laurp\\Desktop\\Tema1\\Tema1\\RegexProcessor.cs",
+              "RelativeDocumentMoniker": "Tema1\\RegexProcessor.cs",
+              "ToolTip": "C:\\Users\\laurp\\Desktop\\Tema1\\Tema1\\RegexProcessor.cs",
+              "RelativeToolTip": "Tema1\\RegexProcessor.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:15:26.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

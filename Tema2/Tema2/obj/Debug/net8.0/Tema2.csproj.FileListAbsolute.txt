@@ -1,0 +1,17 @@
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\bin\Debug\net8.0\Tema2.exe
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\bin\Debug\net8.0\Tema2.deps.json
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\bin\Debug\net8.0\Tema2.runtimeconfig.json
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\bin\Debug\net8.0\Tema2.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\bin\Debug\net8.0\Tema2.pdb
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.csproj.AssemblyReference.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.AssemblyInfoInputs.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.AssemblyInfo.cs
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.csproj.CoreCompileInputs.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.csproj.Up2Date
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\refint\Tema2.dll
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.pdb
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\Tema2.genruntimeconfig.cache
+C:\Users\laurp\Desktop\Anul 2\LFC\Tema2\Tema2\obj\Debug\net8.0\ref\Tema2.dll
